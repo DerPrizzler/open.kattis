@@ -1,3 +1,5 @@
+//TEST
+
 import java.util.Scanner;
 public class number {
 
@@ -26,7 +28,7 @@ public class number {
         for (int j = 0; j < n; j++) {
             System.out.println(output[j]);
         }
-
+          asdasdasdasd
 
     }
 
